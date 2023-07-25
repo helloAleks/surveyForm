@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+    margin:0;
+    font-family: 'Lato', 'Lucida Grande','Lucida Sans Unicode', Tahoma, Sans-Serif;
+  }
+  form{
+    background-color:powderblue;
+    box-shadow:2px 5px 10px rgba(0,0,0,0.4);
+    border-radius:2px;
+    padding:30px 20px;
+    max-width:450px;
+    margin:auto auto;
+  }
+  .form-group{
+    margin-bottom:20px;
+    text-align:left;
+  }
+  
+  button{
+  background-color:#05c46b;
+  border:1px solid #05c46b;
+  border-radius:2px;
+  font-family:inherit;
+  font-size:16px;
+  display:block;
+  padding:10px;
+  width:100%;
+  }
